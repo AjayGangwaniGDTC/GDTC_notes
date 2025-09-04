@@ -1,0 +1,12 @@
+[
+  {
+    "course": "REST API Dev",
+    "instructor": "Chetana Maru",
+    "average_rating": 5.0
+  },
+  {
+    "course": "Python Basics",
+    "instructor": "Anita Desai",
+    "average_rating": 4.25
+  }
+]

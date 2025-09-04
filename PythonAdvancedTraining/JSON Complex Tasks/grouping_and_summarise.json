@@ -1,0 +1,10 @@
+[
+  {
+    "category": "Books",
+    "total_stock": 17
+  },
+  {
+    "category": "Electronics",
+    "total_stock": 35
+  }
+]

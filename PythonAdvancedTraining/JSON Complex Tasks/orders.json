@@ -1,0 +1,6 @@
+{
+    "orders": [
+        {"order_id": 101, "items": [{"name": "Pen", "qty": 10, "price": 5}, {"name": "Notebook", "qty": 2, "price": 50}]},
+        {"order_id": 102, "items": [{"name": "Pencil", "qty": 5, "price": 3}]}
+    ]
+}

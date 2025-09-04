@@ -1,0 +1,20 @@
+[
+  {
+    "course": "Python Basics",
+    "instructor": "Anita Desai",
+    "rating": 4.5,
+    "comment": "Great examples and clear explanations."
+  },
+  {
+    "course": "Python Basics",
+    "instructor": "Anita Desai",
+    "rating": 4.0,
+    "comment": "Well-paced and interactive."
+  },
+  {
+    "course": "REST API Dev",
+    "instructor": "Chetana Maru",
+    "rating": 5.0,
+    "comment": "Loved the hands-on approach!"
+  }
+]

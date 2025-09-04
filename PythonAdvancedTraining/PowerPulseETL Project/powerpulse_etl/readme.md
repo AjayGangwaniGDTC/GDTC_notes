@@ -1,0 +1,1 @@
+This project fetches data from the EIA.gov API and creates an ETL pipeline to export the data into various formats including Excel, MongoDB, and MySQL. These outputs can be used for further analysis. A detailed log file is also maintained to track each ETL phase, helping catch and handle errors efficiently.

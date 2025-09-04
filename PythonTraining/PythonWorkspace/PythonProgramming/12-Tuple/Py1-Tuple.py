@@ -1,0 +1,5 @@
+tup1 = (10, 20, 30)
+print(tup1)
+tup2 = (10, 'Balu', 'Mumbai', 45.5)
+tup2(2,100)
+print(tup2)

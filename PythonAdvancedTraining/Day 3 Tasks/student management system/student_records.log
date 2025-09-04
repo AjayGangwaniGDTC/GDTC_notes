@@ -1,0 +1,6 @@
+2025-06-30 09:44:34,039 - INFO - Executing function: insert_student
+2025-06-30 09:44:52,121 - INFO - Executing function: validate_student_data
+2025-06-30 09:44:52,122 - INFO - Completed function: validate_student_data - Result: (False, 'ID must be an integer.')
+2025-06-30 09:44:52,122 - INFO - Completed function: insert_student - Result: Insertion aborted due to validation failure.
+2025-06-30 09:45:05,373 - INFO - Executing function: select_students
+2025-06-30 09:45:05,424 - INFO - Completed function: select_students - Result: Displayed all students.

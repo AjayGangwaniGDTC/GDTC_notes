@@ -1,0 +1,18 @@
+************* Module config
+config.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+config.py:4:0: C0103: Constant name "mode" doesn't conform to UPPER_CASE naming style (invalid-name)
+************* Module controller
+controller.py:10:22: W0622: Redefining built-in 'id' (redefined-builtin)
+controller.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module database
+database.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+database.py:11:0: C0116: Missing function or method docstring (missing-function-docstring)
+************* Module utils
+utils.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+utils.py:3:0: C0103: Function name "calcLoad" doesn't conform to snake_case naming style (invalid-name)
+utils.py:5:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+utils.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 6.15/10 (previous run: 6.15/10, +0.00)
+

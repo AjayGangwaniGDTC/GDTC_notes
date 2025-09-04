@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Aniket Sharma",
+    "employee_id": "E101",
+    "department": "Engineering",
+    "role": "Team Lead",
+    "contact": {
+      "email": "aniket@maitritech.com",
+      "phone": "9820076541"
+    },
+    "team": ["E102", "E103", "E104"]
+  },
+  {
+    "name": "Riya Sen",
+    "employee_id": "E102",
+    "department": "Engineering",
+    "role": "Developer",
+    "contact": {
+      "email": "riya@maitritech.com",
+      "phone": "9876543210"
+    }
+  },
+  {
+      "name": "Karan Desai",
+      "employee_id": "E201",
+      "department": "Marketing",
+      "role": "Team Lead",
+      "contact": {
+      "email": "karan@maitritech.com",
+      "phone": "9812345678"
+    },
+    "team": ["E202", "E203"]
+  }
+]

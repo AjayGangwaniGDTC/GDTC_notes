@@ -1,0 +1,20 @@
+[
+  {
+    "total_invested": 14000,
+    "current_value": 15500,
+    "status": "Gain",
+    "gain_or_loss_percent": 10.71
+  },
+  {
+    "total_invested": 16500,
+    "current_value": 16000,
+    "status": "Loss",
+    "gain_or_loss_percent": -3.03
+  },
+  {
+    "total_invested": 3280,
+    "current_value": 3800,
+    "status": "Gain",
+    "gain_or_loss_percent": 15.85
+  }
+]

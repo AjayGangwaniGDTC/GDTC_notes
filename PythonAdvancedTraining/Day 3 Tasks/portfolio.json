@@ -1,0 +1,5 @@
+[
+  {"symbol": "INFY", "quantity": 10, "purchase_price": 1400, "current_price": 1550},
+  {"symbol": "TCS", "quantity": 5, "purchase_price": 3300, "current_price": 3200},
+  {"symbol": "WIPRO", "quantity": 8, "purchase_price": 410, "current_price": 475}
+]

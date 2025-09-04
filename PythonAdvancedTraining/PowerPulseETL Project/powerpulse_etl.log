@@ -1,0 +1,14 @@
+2025-07-04 11:24:42,206 [INFO] Starting PowerPulse ETL pipeline
+2025-07-04 11:24:42,207 [INFO] Fetch EIA Data started
+2025-07-04 11:24:54,613 [INFO] Fetched 5000 records from EIA API.
+2025-07-04 11:24:54,614 [INFO] Fetch EIA Data completed in 12.41s
+2025-07-04 11:24:54,614 [INFO] Export to Excel started
+2025-07-04 11:24:56,420 [INFO] Data exported to Excel at powerpulse_etl.xlsx
+2025-07-04 11:24:56,421 [INFO] Export to Excel completed in 1.81s
+2025-07-04 11:24:56,421 [INFO] MongoDB Store started
+2025-07-04 11:24:56,533 [INFO] Inserted 5000 records into MongoDB.
+2025-07-04 11:24:56,535 [INFO] MongoDB Store completed in 0.11s
+2025-07-04 11:24:56,535 [INFO] Load to MySQL started
+2025-07-04 11:24:58,345 [INFO] Inserted 5000 records into MySQL database.
+2025-07-04 11:24:58,346 [INFO] Load to MySQL completed in 1.81s
+2025-07-04 11:24:58,346 [INFO] PowerPulse ETL pipeline completed successfully

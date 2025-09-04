@@ -1,0 +1,38 @@
+							Python Training - Index
+DAY-1 16-06-2025
+ 1. Languages & Packages
+ 2. Roles & Responsibility
+ 3. Good programmers are always good listeners
+ 4. Client Requirements
+ 5. Three tier architecture (UI, Middleware/Server Technology, Database)
+ 6. Python Programming
+ 7. Variables
+ 8. Datatypes
+ 9. Operators
+ 10. Conditional Statements
+ 11. Conditions
+
+DAY-2 17-06-2025
+ Revision for Day 1
+ 12. Nested Loops
+ 13. Functions
+ 14. Membership Operators
+ 15. Arrays
+ 16. Modules
+ 17. Strings
+ 18. Tuples
+ 19. Lists
+ 20. Dictionary
+ Task-1:
+	Calculator with if-else
+ Task-2:
+	Calculator with switch case
+
+DAY-3 18-06-2025
+ 21. Exceptions
+ 22. OOPs
+ 23. Files
+ 24. Integrating Python with MySQL 
+ 25. Date and Time
+ Task:
+	CRUD Operation With Python with MySQL using Switch case
