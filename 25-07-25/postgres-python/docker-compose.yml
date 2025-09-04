@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres-python
+    environment:
+      POSTGRES_USER: postgres   #updated with required username
+      POSTGRES_PASSWORD: admin123  #update with your required password
+      POSTGRES_DB: postgres #update with the name of your database
+    ports:
+      - "5432:5432"
+    volumes:
+      - /var/lib/postgresql/data

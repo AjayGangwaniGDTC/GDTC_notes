@@ -1,0 +1,11 @@
+{ 
+    "type": "historic", 
+    "query_period_minutes": 5, 
+    "query_buffer_minutes": 5, 
+    "format": "geojson", 
+    "minmagnitude": 2.5, 
+    "eventtype": "earthquake", 
+    "orderby": "time-asc",
+    "starttime": "1940-01-01T00:00:00",
+    "endtime": "1950-12-31T23:59:59" 
+}

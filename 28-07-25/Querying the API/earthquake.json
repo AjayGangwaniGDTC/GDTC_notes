@@ -1,0 +1,3061 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1753793763000,
+        "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2020-10-01&endtime=2020-10-30&minlatitude=8.0&minlongitude=37.0&maxlatitude=68.0&maxlongitude=97.0",
+        "title": "USGS Earthquakes",
+        "status": 200,
+        "api": "1.14.1",
+        "count": 76
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "20 km NE of Khorugh, Tajikistan",
+                "time": 1603963963621,
+                "updated": 1660007614055,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c7f1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c7f1&format=geojson",
+                "felt": 1,
+                "cdi": 4.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 370,
+                "net": "us",
+                "code": "7000c7f1",
+                "ids": ",us7000c7f1,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.878,
+                "rms": 0.78,
+                "gap": 54,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 20 km NE of Khorugh, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.742,
+                    37.6026,
+                    51.88
+                ]
+            },
+            "id": "us7000c7f1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "16 km NNW of Dipayal, Nepal",
+                "time": 1603910066731,
+                "updated": 1611010897040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c9s1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c9s1&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "7000c9s1",
+                "ids": ",us7000c9s1,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 5.391,
+                "rms": 1.14,
+                "gap": 176,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 16 km NNW of Dipayal, Nepal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.8988,
+                    29.4069,
+                    10
+                ]
+            },
+            "id": "us7000c9s1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "239 km NE of Hadibu, Yemen",
+                "time": 1603879585878,
+                "updated": 1611010895040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c9rp",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c9rp&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "7000c9rp",
+                "ids": ",us7000c9rp,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 10.66,
+                "rms": 0.55,
+                "gap": 200,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 239 km NE of Hadibu, Yemen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5112,
+                    14.2491,
+                    10
+                ]
+            },
+            "id": "us7000c9rp"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "8 km NW of Tercan, Turkey",
+                "time": 1603876575572,
+                "updated": 1611010895040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c6pg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c6pg&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "7000c6pg",
+                "ids": ",us7000c6pg,",
+                "sources": ",us,",
+                "types": ",moment-tensor,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.246,
+                "rms": 0.8,
+                "gap": 59,
+                "magType": "mwr",
+                "type": "earthquake",
+                "title": "M 4.5 - 8 km NW of Tercan, Turkey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2951,
+                    39.8266,
+                    10
+                ]
+            },
+            "id": "us7000c6pg"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "43 km SW of Ashk?sham, Afghanistan",
+                "time": 1603865498364,
+                "updated": 1611010894040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c6mg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c6mg&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "7000c6mg",
+                "ids": ",us7000c6mg,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.561,
+                "rms": 1.36,
+                "gap": 85,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 43 km SW of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.1747,
+                    36.4255,
+                    120.19
+                ]
+            },
+            "id": "us7000c6mg"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "8 km E of Farkhor, Tajikistan",
+                "time": 1603857708816,
+                "updated": 1611010893040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c9rm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c9rm&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "7000c9rm",
+                "ids": ",us7000c9rm,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.689,
+                "rms": 0.86,
+                "gap": 99,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 8 km E of Farkhor, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5002,
+                    37.4899,
+                    10
+                ]
+            },
+            "id": "us7000c9rm"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "8 km W of Chubek, Tajikistan",
+                "time": 1603857490129,
+                "updated": 1611010893040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c9rg",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c9rg&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "7000c9rg",
+                "ids": ",us7000c9rg,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.544,
+                "rms": 0.79,
+                "gap": 92,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 8 km W of Chubek, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.6041,
+                    37.6102,
+                    10
+                ]
+            },
+            "id": "us7000c9rg"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "39 km SE of Roghun, Tajikistan",
+                "time": 1603792629940,
+                "updated": 1610222730040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cdp1",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cdp1&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000cdp1",
+                "ids": ",us6000cdp1,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.57,
+                "rms": 1.21,
+                "gap": 128,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 39 km SE of Roghun, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.1961,
+                    38.5352,
+                    10
+                ]
+            },
+            "id": "us6000cdp1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "84 km NE of B?fq, Iran",
+                "time": 1603748091220,
+                "updated": 1660007537934,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cdjs",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cdjs&format=geojson",
+                "felt": 3,
+                "cdi": 2.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 385,
+                "net": "us",
+                "code": "6000cdjs",
+                "ids": ",us6000cdjs,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 5.667,
+                "rms": 1.05,
+                "gap": 57,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 5.0 - 84 km NE of B?fq, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.0268,
+                    32.1448,
+                    10
+                ]
+            },
+            "id": "us6000cdjs"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "56 km N of Barkhan, Pakistan",
+                "time": 1603721817919,
+                "updated": 1610222729040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cdas",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cdas&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000cdas",
+                "ids": ",us6000cdas,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 4.149,
+                "rms": 0.62,
+                "gap": 97,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 56 km N of Barkhan, Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5683,
+                    30.4031,
+                    10
+                ]
+            },
+            "id": "us6000cdas"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "41 km NNW of Karakenja, Tajikistan",
+                "time": 1603681846236,
+                "updated": 1610222727040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cd5e",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cd5e&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000cd5e",
+                "ids": ",us6000cd5e,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.611,
+                "rms": 0.91,
+                "gap": 50,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 41 km NNW of Karakenja, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2789,
+                    39.5588,
+                    15.05
+                ]
+            },
+            "id": "us6000cd5e"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "19 km SE of Ishqoshim, Tajikistan",
+                "time": 1603665882501,
+                "updated": 1610222726040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cd3h",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cd3h&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000cd3h",
+                "ids": ",us6000cd3h,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.031,
+                "rms": 0.75,
+                "gap": 71,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 19 km SE of Ishqoshim, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.772,
+                    36.6053,
+                    94.34
+                ]
+            },
+            "id": "us6000cd3h"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "12 km WNW of Hulbuk, Tajikistan",
+                "time": 1603638037064,
+                "updated": 1610222741040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c7ls",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c7ls&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "7000c7ls",
+                "ids": ",us7000c7ls,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.449,
+                "rms": 0.46,
+                "gap": 87,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 12 km WNW of Hulbuk, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5057,
+                    37.8287,
+                    10
+                ]
+            },
+            "id": "us7000c7ls"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4,
+                "place": "9 km ESE of Hulbuk, Tajikistan",
+                "time": 1603637277420,
+                "updated": 1610222741040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c7ll",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c7ll&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 246,
+                "net": "us",
+                "code": "7000c7ll",
+                "ids": ",us7000c7ll,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.433,
+                "rms": 0.84,
+                "gap": 102,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.0 - 9 km ESE of Hulbuk, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.7453,
+                    37.7696,
+                    10
+                ]
+            },
+            "id": "us7000c7ll"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "11 km ENE of Upper Dir, Pakistan",
+                "time": 1603541455386,
+                "updated": 1610222723040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cckz",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cckz&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000cckz",
+                "ids": ",us6000cckz,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.909,
+                "rms": 0.74,
+                "gap": 105,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 11 km ENE of Upper Dir, Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.9924,
+                    35.2459,
+                    68.28
+                ]
+            },
+            "id": "us6000cckz"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "51 km SSW of Abhar, Iran",
+                "time": 1603539257923,
+                "updated": 1610222723040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cckl",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cckl&format=geojson",
+                "felt": 18,
+                "cdi": 4.1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 392,
+                "net": "us",
+                "code": "6000cckl",
+                "ids": ",us6000cckl,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.699,
+                "rms": 0.72,
+                "gap": 34,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.0 - 51 km SSW of Abhar, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.9355,
+                    35.7462,
+                    10
+                ]
+            },
+            "id": "us6000cckl"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "29 km W of Ashk?sham, Afghanistan",
+                "time": 1603518111677,
+                "updated": 1610222740040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000c7is",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000c7is&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "7000c7is",
+                "ids": ",us7000c7is,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.785,
+                "rms": 0.48,
+                "gap": 104,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 29 km W of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2134,
+                    36.7325,
+                    204.15
+                ]
+            },
+            "id": "us7000c7is"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "33 km E of Khagrachhari, Bangladesh",
+                "time": 1603509664311,
+                "updated": 1660007431434,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ccf2",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000ccf2&format=geojson",
+                "felt": 3,
+                "cdi": 4.6,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 299,
+                "net": "us",
+                "code": "6000ccf2",
+                "ids": ",us6000ccf2,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.748,
+                "rms": 0.78,
+                "gap": 95,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 33 km E of Khagrachhari, Bangladesh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.2965,
+                    23.1224,
+                    44.64
+                ]
+            },
+            "id": "us6000ccf2"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "32 km SW of Ashk?sham, Afghanistan",
+                "time": 1603434266911,
+                "updated": 1610222720040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cbwm",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cbwm&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000cbwm",
+                "ids": ",us6000cbwm,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.652,
+                "rms": 0.61,
+                "gap": 73,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 32 km SW of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2824,
+                    36.4685,
+                    116.92
+                ]
+            },
+            "id": "us6000cbwm"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.8,
+                "place": "270 km NW of Nagqu, China",
+                "time": 1603285957754,
+                "updated": 1610222716040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000camh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000camh&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 354,
+                "net": "us",
+                "code": "6000camh",
+                "ids": ",us6000camh,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.743,
+                "rms": 0.54,
+                "gap": 53,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.8 - 270 km NW of Nagqu, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.2627,
+                    33.384,
+                    10
+                ]
+            },
+            "id": "us6000camh"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "79 km NNW of P?r?n, Afghanistan",
+                "time": 1603281733127,
+                "updated": 1610222716040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000calq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000calq&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000calq",
+                "ids": ",us6000calq,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.053,
+                "rms": 0.68,
+                "gap": 43,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 79 km NNW of P?r?n, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.6688,
+                    36.1095,
+                    104.03
+                ]
+            },
+            "id": "us6000calq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "27 km N of Jalal-Abad, Kyrgyzstan",
+                "time": 1603235285139,
+                "updated": 1609283287040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cae9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cae9&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000cae9",
+                "ids": ",us6000cae9,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.15,
+                "rms": 0.88,
+                "gap": 48,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 27 km N of Jalal-Abad, Kyrgyzstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0397,
+                    41.1794,
+                    10
+                ]
+            },
+            "id": "us6000cae9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "38 km ESE of Farkh?r, Afghanistan",
+                "time": 1603234728092,
+                "updated": 1609283286040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cae3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cae3&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000cae3",
+                "ids": ",us6000cae3,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.167,
+                "rms": 0.82,
+                "gap": 42,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 38 km ESE of Farkh?r, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.2653,
+                    36.4691,
+                    214.09
+                ]
+            },
+            "id": "us6000cae3"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "124 km E of Murghob, Tajikistan",
+                "time": 1603233030596,
+                "updated": 1609283286040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cadr",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cadr&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000cadr",
+                "ids": ",us6000cadr,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.018,
+                "rms": 0.87,
+                "gap": 68,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 124 km E of Murghob, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.3754,
+                    38.3196,
+                    117.79
+                ]
+            },
+            "id": "us6000cadr"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4,
+                "place": "47 km E of Margherita, India",
+                "time": 1603223749959,
+                "updated": 1609283285040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000caa9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000caa9&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 246,
+                "net": "us",
+                "code": "6000caa9",
+                "ids": ",us6000caa9,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.415,
+                "rms": 0.74,
+                "gap": 45,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.0 - 47 km E of Margherita, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1444,
+                    27.2257,
+                    57.98
+                ]
+            },
+            "id": "us6000caa9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "166 km SSE of Kadzhi-Say, Kyrgyzstan",
+                "time": 1603173627985,
+                "updated": 1609283280040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cc5a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cc5a&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000cc5a",
+                "ids": ",us6000cc5a,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.015,
+                "rms": 0.79,
+                "gap": 79,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 166 km SSE of Kadzhi-Say, Kyrgyzstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7707,
+                    40.7134,
+                    10
+                ]
+            },
+            "id": "us6000cc5a"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "40 km SW of Khorugh, Tajikistan",
+                "time": 1603168526219,
+                "updated": 1609283278040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c9uh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c9uh&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000c9uh",
+                "ids": ",us6000c9uh,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.822,
+                "rms": 0.59,
+                "gap": 67,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 40 km SW of Khorugh, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2101,
+                    37.2473,
+                    112.32
+                ]
+            },
+            "id": "us6000c9uh"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "16 km ENE of M?\u2019minobod, Tajikistan",
+                "time": 1603158569885,
+                "updated": 1609283272040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c9s8",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c9s8&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000c9s8",
+                "ids": ",us6000c9s8,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.933,
+                "rms": 0.91,
+                "gap": 98,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 16 km ENE of M?\u2019minobod, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.1877,
+                    38.1844,
+                    57.91
+                ]
+            },
+            "id": "us6000c9s8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "44 km E of Kyzyl-Eshme, Kyrgyzstan",
+                "time": 1603102659450,
+                "updated": 1609283259040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c9e4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c9e4&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c9e4",
+                "ids": ",us6000c9e4,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.758,
+                "rms": 0.87,
+                "gap": 50,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 44 km E of Kyzyl-Eshme, Kyrgyzstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.7845,
+                    39.5239,
+                    10
+                ]
+            },
+            "id": "us6000c9e4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "43 km SE of Khorugh, Tajikistan",
+                "time": 1603091209739,
+                "updated": 1609283258040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c9ce",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c9ce&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000c9ce",
+                "ids": ",us6000c9ce,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.212,
+                "rms": 0.89,
+                "gap": 88,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 43 km SE of Khorugh, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.9535,
+                    37.2703,
+                    147.84
+                ]
+            },
+            "id": "us6000c9ce"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "26 km E of Sarpol-e Z?ah?b, Iran",
+                "time": 1603079073999,
+                "updated": 1609283258040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cc1s",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cc1s&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "6000cc1s",
+                "ids": ",us6000cc1s,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.734,
+                "rms": 0.84,
+                "gap": 121,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 26 km E of Sarpol-e Z?ah?b, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.1515,
+                    34.4725,
+                    10
+                ]
+            },
+            "id": "us6000cc1s"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "39 km ESE of Khorugh, Tajikistan",
+                "time": 1603001677662,
+                "updated": 1609283254040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c94s",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c94s&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c94s",
+                "ids": ",us6000c94s,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.19,
+                "rms": 0.58,
+                "gap": 58,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 39 km ESE of Khorugh, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.9282,
+                    37.2916,
+                    136.52
+                ]
+            },
+            "id": "us6000c94s"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "43 km SW of Shache, China",
+                "time": 1602974725899,
+                "updated": 1609283253040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c921",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c921&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c921",
+                "ids": ",us6000c921,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.378,
+                "rms": 0.84,
+                "gap": 67,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 43 km SW of Shache, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.9232,
+                    38.1207,
+                    10
+                ]
+            },
+            "id": "us6000c921"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "1 km S of Artyshta, Russia",
+                "time": 1602955267794,
+                "updated": 1646890944290,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c90v",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c90v&format=geojson",
+                "felt": 5,
+                "cdi": 4.3,
+                "mmi": 5.493,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 328,
+                "net": "us",
+                "code": "6000c90v",
+                "ids": ",us6000c90v,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.884,
+                "rms": 0.62,
+                "gap": 36,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 1 km S of Artyshta, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.2947,
+                    54.1055,
+                    10
+                ]
+            },
+            "id": "us6000c90v"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "56 km WSW of Wana, Pakistan",
+                "time": 1602951588308,
+                "updated": 1609283252040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c90n",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c90n&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000c90n",
+                "ids": ",us6000c90n,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.512,
+                "rms": 1.41,
+                "gap": 112,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 56 km WSW of Wana, Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.074,
+                    32.022,
+                    45.61
+                ]
+            },
+            "id": "us6000c90n"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "42 km SSE of Jurm, Afghanistan",
+                "time": 1602897395942,
+                "updated": 1609283249040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c8w9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c8w9&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c8w9",
+                "ids": ",us6000c8w9,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.528,
+                "rms": 0.97,
+                "gap": 63,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 42 km SSE of Jurm, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.9964,
+                    36.5082,
+                    167.31
+                ]
+            },
+            "id": "us6000c8w9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "282 km NW of Nagqu, China",
+                "time": 1602880352922,
+                "updated": 1609283248040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000caqq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000caqq&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000caqq",
+                "ids": ",us6000caqq,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.79,
+                "rms": 0.81,
+                "gap": 67,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 282 km NW of Nagqu, China"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.0814,
+                    33.3981,
+                    10
+                ]
+            },
+            "id": "us6000caqq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "26 km W of Ashk?sham, Afghanistan",
+                "time": 1602843053197,
+                "updated": 1609283247040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c8qv",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c8qv&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 369,
+                "net": "us",
+                "code": "6000c8qv",
+                "ids": ",us6000c8qv,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.764,
+                "rms": 0.76,
+                "gap": 32,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 4.9 - 26 km W of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2366,
+                    36.6548,
+                    219.45
+                ]
+            },
+            "id": "us6000c8qv"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "15 km NW of Dadhar, Pakistan",
+                "time": 1602836009666,
+                "updated": 1609283247040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c8q9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c8q9&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000c8q9",
+                "ids": ",us6000c8q9,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 5.106,
+                "rms": 0.33,
+                "gap": 144,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 15 km NW of Dadhar, Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.543,
+                    29.5811,
+                    10
+                ]
+            },
+            "id": "us6000c8q9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "2 km N of Sheregesh, Russia",
+                "time": 1602792772663,
+                "updated": 1609283244040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000caky",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000caky&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000caky",
+                "ids": ",us6000caky,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.148,
+                "rms": 0.88,
+                "gap": 107,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 2 km N of Sheregesh, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.9938,
+                    52.9458,
+                    10
+                ]
+            },
+            "id": "us6000caky"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "43 km ESE of Khorugh, Tajikistan",
+                "time": 1602768893966,
+                "updated": 1609283243040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c8i7",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c8i7&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c8i7",
+                "ids": ",us6000c8i7,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.136,
+                "rms": 0.82,
+                "gap": 65,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 43 km ESE of Khorugh, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.0162,
+                    37.3504,
+                    160.65
+                ]
+            },
+            "id": "us6000c8i7"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "48 km S of Ashk?sham, Afghanistan",
+                "time": 1602739643205,
+                "updated": 1609283242040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000cakk",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000cakk&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "6000cakk",
+                "ids": ",us6000cakk,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.667,
+                "rms": 0.84,
+                "gap": 79,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 48 km S of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.5527,
+                    36.2505,
+                    117.23
+                ]
+            },
+            "id": "us6000cakk"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "Andaman Islands, India region",
+                "time": 1602718741108,
+                "updated": 1609283241040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c9yq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c9yq&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000c9yq",
+                "ids": ",us6000c9yq,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 6.94,
+                "rms": 1,
+                "gap": 153,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - Andaman Islands, India region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.7845,
+                    12.1851,
+                    10
+                ]
+            },
+            "id": "us6000c9yq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "45 km SE of Ger?sh, Iran",
+                "time": 1602673577268,
+                "updated": 1609283240040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c886",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c886&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000c886",
+                "ids": ",us6000c886,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.883,
+                "rms": 0.56,
+                "gap": 34,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 45 km SE of Ger?sh, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.4577,
+                    27.3738,
+                    10
+                ]
+            },
+            "id": "us6000c886"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "47 km ESE of Farkh?r, Afghanistan",
+                "time": 1602649357454,
+                "updated": 1609283239040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c9yr",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c9yr&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000c9yr",
+                "ids": ",us6000c9yr,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.196,
+                "rms": 0.9,
+                "gap": 61,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 47 km ESE of Farkh?r, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.3689,
+                    36.4567,
+                    206.62
+                ]
+            },
+            "id": "us6000c9yr"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.4,
+                "place": "Socotra region",
+                "time": 1602581392638,
+                "updated": 1608398570040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7zb",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7zb&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": 0,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 449,
+                "net": "us",
+                "code": "6000c7zb",
+                "ids": ",us6000c7zb,",
+                "sources": ",us,",
+                "types": ",losspager,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 10.936,
+                "rms": 1.04,
+                "gap": 42,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.4 - Socotra region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.9359,
+                    13.9738,
+                    10
+                ]
+            },
+            "id": "us6000c7zb"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "Socotra region",
+                "time": 1602579780073,
+                "updated": 1608398576040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c8tf",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c8tf&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c8tf",
+                "ids": ",us6000c8tf,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 11.019,
+                "rms": 0.37,
+                "gap": 100,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - Socotra region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.8637,
+                    13.8857,
+                    10
+                ]
+            },
+            "id": "us6000c8tf"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "Owen Fracture Zone region",
+                "time": 1602573756711,
+                "updated": 1608398576040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c8th",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c8th&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000c8th",
+                "ids": ",us6000c8th,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 14.886,
+                "rms": 0.74,
+                "gap": 116,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - Owen Fracture Zone region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.276,
+                    13.6053,
+                    10
+                ]
+            },
+            "id": "us6000c8th"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "35 km N of Ishqoshim, Tajikistan",
+                "time": 1602555928557,
+                "updated": 1608398569040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7ws",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7ws&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000c7ws",
+                "ids": ",us6000c7ws,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.439,
+                "rms": 0.8,
+                "gap": 63,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 35 km N of Ishqoshim, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.5964,
+                    37.0459,
+                    118.4
+                ]
+            },
+            "id": "us6000c7ws"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "52 km ENE of Falam, Myanmar",
+                "time": 1602552981205,
+                "updated": 1608398575040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c8t9",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c8t9&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000c8t9",
+                "ids": ",us6000c8t9,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.702,
+                "rms": 0.45,
+                "gap": 85,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 52 km ENE of Falam, Myanmar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.1126,
+                    23.1644,
+                    71.72
+                ]
+            },
+            "id": "us6000c8t9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "92 km WSW of T\u00fcrkmenba?y, Turkmenistan",
+                "time": 1602503237313,
+                "updated": 1608398567040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7ra",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7ra&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 369,
+                "net": "us",
+                "code": "6000c7ra",
+                "ids": ",us6000c7ra,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 5.644,
+                "rms": 0.66,
+                "gap": 61,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 92 km WSW of T\u00fcrkmenba?y, Turkmenistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.0403,
+                    39.5827,
+                    37.71
+                ]
+            },
+            "id": "us6000c7ra"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "72 km SW of Ashk?sham, Afghanistan",
+                "time": 1602423394605,
+                "updated": 1660006349820,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7jn",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7jn&format=geojson",
+                "felt": 2,
+                "cdi": 2.2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000c7jn",
+                "ids": ",us6000c7jn,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.297,
+                "rms": 0.87,
+                "gap": 60,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 72 km SW of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.9932,
+                    36.1993,
+                    112.42
+                ]
+            },
+            "id": "us6000c7jn"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "57 km WNW of Dera Ghazi Khan, Pakistan",
+                "time": 1602396171900,
+                "updated": 1608398565040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7hh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7hh&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000c7hh",
+                "ids": ",us6000c7hh,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 4.352,
+                "rms": 1.02,
+                "gap": 135,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 57 km WNW of Dera Ghazi Khan, Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.0859,
+                    30.2312,
+                    10
+                ]
+            },
+            "id": "us6000c7hh"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.5,
+                "place": "33 km WNW of Moir?ng, India",
+                "time": 1602351480765,
+                "updated": 1608398564040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7ce",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7ce&format=geojson",
+                "felt": 87,
+                "cdi": 4.8,
+                "mmi": 4.24,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 507,
+                "net": "us",
+                "code": "6000c7ce",
+                "ids": ",us6000c7ce,pt20284000,",
+                "sources": ",us,pt,",
+                "types": ",dyfi,internal-origin,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.849,
+                "rms": 0.65,
+                "gap": 22,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.5 - 33 km WNW of Moir?ng, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.4997,
+                    24.6661,
+                    53
+                ]
+            },
+            "id": "us6000c7ce"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "88 km N of Bandar Abbas, Iran",
+                "time": 1602257184480,
+                "updated": 1608398561040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c74a",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c74a&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c74a",
+                "ids": ",us6000c74a,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.025,
+                "rms": 0.99,
+                "gap": 133,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 88 km N of Bandar Abbas, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.3133,
+                    27.9811,
+                    10
+                ]
+            },
+            "id": "us6000c74a"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "27 km W of Ashk?sham, Afghanistan",
+                "time": 1602144761187,
+                "updated": 1608398571040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c814",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c814&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000c814",
+                "ids": ",us6000c814,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.794,
+                "rms": 0.81,
+                "gap": 72,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 27 km W of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.234,
+                    36.7205,
+                    100.29
+                ]
+            },
+            "id": "us6000c814"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "28 km SSW of Skardu, Pakistan",
+                "time": 1602129130644,
+                "updated": 1608398571040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c80y",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c80y&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "6000c80y",
+                "ids": ",us6000c80y,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.314,
+                "rms": 0.64,
+                "gap": 105,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 28 km SSW of Skardu, Pakistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.4717,
+                    35.0808,
+                    51.43
+                ]
+            },
+            "id": "us6000c80y"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "9 km E of Shahrak-e K?l?r?, Iran",
+                "time": 1602105197519,
+                "updated": 1608398568040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7ta",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7ta&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000c7ta",
+                "ids": ",us6000c7ta,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 3.631,
+                "rms": 0.84,
+                "gap": 84,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 9 km E of Shahrak-e K?l?r?, Iran"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.5756,
+                    32.366,
+                    10
+                ]
+            },
+            "id": "us6000c7ta"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "220 km NNE of Josh?math, India",
+                "time": 1602087488290,
+                "updated": 1608398558040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c6hc",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c6hc&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c6hc",
+                "ids": ",us6000c6hc,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 6.266,
+                "rms": 0.84,
+                "gap": 145,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 220 km NNE of Josh?math, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.5666,
+                    32.3518,
+                    10
+                ]
+            },
+            "id": "us6000c6hc"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "Eastern Xizang",
+                "time": 1602075795556,
+                "updated": 1608398568040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7sq",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7sq&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000c7sq",
+                "ids": ",us6000c7sq,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 4.363,
+                "rms": 0.69,
+                "gap": 111,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - Eastern Xizang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.1336,
+                    30.0793,
+                    10
+                ]
+            },
+            "id": "us6000c7sq"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "132 km ESE of Nookat, Kyrgyzstan",
+                "time": 1602043848614,
+                "updated": 1608398567040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c7se",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c7se&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 326,
+                "net": "us",
+                "code": "6000c7se",
+                "ids": ",us6000c7se,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.638,
+                "rms": 0.71,
+                "gap": 139,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 132 km ESE of Nookat, Kyrgyzstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.918,
+                    39.6124,
+                    47.78
+                ]
+            },
+            "id": "us6000c7se"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.6,
+                "place": "27 km E of Phek, India",
+                "time": 1602021774378,
+                "updated": 1607812123040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c688",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c688&format=geojson",
+                "felt": 19,
+                "cdi": 5.8,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 337,
+                "net": "us",
+                "code": "6000c688",
+                "ids": ",us6000c688,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 1.472,
+                "rms": 0.84,
+                "gap": 54,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.6 - 27 km E of Phek, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.7776,
+                    25.643,
+                    61.51
+                ]
+            },
+            "id": "us6000c688"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "14 km N of Ishqoshim, Tajikistan",
+                "time": 1602019527921,
+                "updated": 1660005958991,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c680",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c680&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "6000c680",
+                "ids": ",us6000c680,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.631,
+                "rms": 0.99,
+                "gap": 102,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 14 km N of Ishqoshim, Tajikistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.6121,
+                    36.8522,
+                    110.79
+                ]
+            },
+            "id": "us6000c680"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.4,
+                "place": "135 km ESE of Nookat, Kyrgyzstan",
+                "time": 1601971919403,
+                "updated": 1607812122040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c60i",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c60i&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 298,
+                "net": "us",
+                "code": "6000c60i",
+                "ids": ",us6000c60i,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 1.688,
+                "rms": 1.35,
+                "gap": 92,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.4 - 135 km ESE of Nookat, Kyrgyzstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.9798,
+                    39.6375,
+                    10
+                ]
+            },
+            "id": "us6000c60i"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "142 km E of Leh, India",
+                "time": 1601964819363,
+                "updated": 1607812121040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c5zr",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c5zr&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 340,
+                "net": "us",
+                "code": "6000c5zr",
+                "ids": ",us6000c5zr,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 4.894,
+                "rms": 0.55,
+                "gap": 82,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - 142 km E of Leh, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1272,
+                    34.0992,
+                    10
+                ]
+            },
+            "id": "us6000c5zr"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "150 km E of Leh, India",
+                "time": 1601941400846,
+                "updated": 1607812121040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c5y3",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c5y3&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 385,
+                "net": "us",
+                "code": "6000c5y3",
+                "ids": ",us6000c5y3,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 4.971,
+                "rms": 0.62,
+                "gap": 21,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.0 - 150 km E of Leh, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.2141,
+                    34.1788,
+                    10
+                ]
+            },
+            "id": "us6000c5y3"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "10 km SSE of Mawlaik, Myanmar",
+                "time": 1601899720009,
+                "updated": 1607812129040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c725",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c725&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "6000c725",
+                "ids": ",us6000c725,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 0.689,
+                "rms": 1.02,
+                "gap": 130,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 10 km SSE of Mawlaik, Myanmar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.4335,
+                    23.5477,
+                    74.11
+                ]
+            },
+            "id": "us6000c725"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "2 km NE of G\u00f6y\u00e7ay, Azerbaijan",
+                "time": 1601880989662,
+                "updated": 1607812129040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c71u",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c71u&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "6000c71u",
+                "ids": ",us6000c71u,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.36,
+                "rms": 1.32,
+                "gap": 113,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 2 km NE of G\u00f6y\u00e7ay, Azerbaijan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7574,
+                    40.6674,
+                    10
+                ]
+            },
+            "id": "us6000c71u"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.1,
+                "place": "24 km SSW of Karaton, Kazakhstan",
+                "time": 1601850804896,
+                "updated": 1607812119040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c5k0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c5k0&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 259,
+                "net": "us",
+                "code": "6000c5k0",
+                "ids": ",us6000c5k0,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 5.226,
+                "rms": 0.76,
+                "gap": 127,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.1 - 24 km SSW of Karaton, Kazakhstan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    53.342,
+                    46.2411,
+                    10
+                ]
+            },
+            "id": "us6000c5k0"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "51 km WSW of Chauk, Myanmar",
+                "time": 1601827202846,
+                "updated": 1607812119040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c5hh",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c5hh&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 284,
+                "net": "us",
+                "code": "6000c5hh",
+                "ids": ",us6000c5hh,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.123,
+                "rms": 1.05,
+                "gap": 166,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 51 km WSW of Chauk, Myanmar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.4032,
+                    20.6448,
+                    78.19
+                ]
+            },
+            "id": "us6000c5hh"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.5,
+                "place": "46 km SW of Ashk?sham, Afghanistan",
+                "time": 1601745318840,
+                "updated": 1607812127040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c6r0",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c6r0&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 312,
+                "net": "us",
+                "code": "6000c6r0",
+                "ids": ",us6000c6r0,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 2.536,
+                "rms": 1.28,
+                "gap": 78,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.5 - 46 km SW of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.1322,
+                    36.4226,
+                    110.24
+                ]
+            },
+            "id": "us6000c6r0"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "21 km WSW of H?jo, India",
+                "time": 1601739377754,
+                "updated": 1607812117040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c584",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c584&format=geojson",
+                "felt": 7,
+                "cdi": 4.1,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 274,
+                "net": "us",
+                "code": "6000c584",
+                "ids": ",us6000c584,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.801,
+                "rms": 0.4,
+                "gap": 120,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 21 km WSW of H?jo, India"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.3108,
+                    26.2024,
+                    44.3
+                ]
+            },
+            "id": "us6000c584"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "39 km NE of Gumdag, Turkmenistan",
+                "time": 1601682533240,
+                "updated": 1607812116040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c528",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c528&format=geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 271,
+                "net": "us",
+                "code": "6000c528",
+                "ids": ",us6000c528,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 7.796,
+                "rms": 0.7,
+                "gap": 81,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 39 km NE of Gumdag, Turkmenistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.8654,
+                    39.4875,
+                    10
+                ]
+            },
+            "id": "us6000c528"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.2,
+                "place": "29 km SSW of Ashk?sham, Afghanistan",
+                "time": 1601673320673,
+                "updated": 1660005744777,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c50q",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c50q&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 272,
+                "net": "us",
+                "code": "6000c50q",
+                "ids": ",us6000c50q,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.709,
+                "rms": 1,
+                "gap": 77,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.2 - 29 km SSW of Ashk?sham, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.4174,
+                    36.4391,
+                    105.28
+                ]
+            },
+            "id": "us6000c50q"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.8,
+                "place": "67 km ESE of Farkh?r, Afghanistan",
+                "time": 1601661178624,
+                "updated": 1660005708337,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c4y4",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c4y4&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 222,
+                "net": "us",
+                "code": "6000c4y4",
+                "ids": ",us6000c4y4,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.126,
+                "rms": 0.63,
+                "gap": 117,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 3.8 - 67 km ESE of Farkh?r, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.5295,
+                    36.291,
+                    154
+                ]
+            },
+            "id": "us6000c4y4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.3,
+                "place": "34 km S of Jurm, Afghanistan",
+                "time": 1601622992198,
+                "updated": 1660005667167,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c4m6",
+                "detail": "https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us6000c4m6&format=geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 285,
+                "net": "us",
+                "code": "6000c4m6",
+                "ids": ",us6000c4m6,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 2.502,
+                "rms": 1.01,
+                "gap": 72,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.3 - 34 km S of Jurm, Afghanistan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.87,
+                    36.5567,
+                    185.38
+                ]
+            },
+            "id": "us6000c4m6"
+        }
+    ],
+    "bbox": [
+        40.2951,
+        12.1851,
+        10,
+        96.1444,
+        54.1055,
+        219.45
+    ]
+}
