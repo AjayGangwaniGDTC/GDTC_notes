@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Unit_Price,Total_Amount,Order_Date,City,Payment_Method
+1001,Amit Sharma,Laptop,Electronics,1,55000,55000,2025-06-01,Mumbai,Credit Card
+1002,Priya Desai,Smartphone,Electronics,2,18000,36000,2025-06-02,Pune,UPI
+1003,Rahul Mehta,Office Chair,Furniture,1,7500,7500,2025-06-03,Delhi,Net Banking
+1004,Sneha Iyer,Notebook,Stationery,5,50,250,2025-06-03,Bangalore,Cash
+1005,Karan Patel,Desk,Furniture,1,12000,12000,2025-06-04,Ahmedabad,Credit Card
+1006,Neha Verma,Pen,Stationery,10,20,200,2025-06-05,Mumbai,UPI
+1007,Arjun Rao,Tablet,Electronics,1,25000,25000,2025-06-06,Hyderabad,Debit Card
+1008,Divya Shah,Bookshelf,Furniture,1,8500,8500,2025-06-07,Pune,Cash
+1009,Manish Gupta,Monitor,Electronics,2,12000,24000,2025-06-08,Delhi,Net Banking
+1010,Anjali Nair,Printer,Electronics,1,15000,15000,2025-06-09,Bangalore,Credit Card

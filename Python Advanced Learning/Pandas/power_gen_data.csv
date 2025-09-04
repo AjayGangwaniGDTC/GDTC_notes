@@ -1,0 +1,11 @@
+Station_ID,Station_Name,Region,Date,Energy_MWh,Status,Operator,Peak_Load_MW
+PS001,Alpha Station,North,2025-07-01,1250,Online,GridCorp,320
+PS002,Beta Station,South,2025-07-01,980,Maintenance,PowerGen,280
+PS003,Gamma Station,East,2025-07-01,1125,Online,GridCorp,310
+PS004,Delta Station,West,2025-07-01,870,,PowerGen,
+PS005,Epsilon Station,North,2025-07-01,1340,Online,GridCorp,330
+PS006,Zeta Station,South,2025-07-01,,Online,PowerGen,250
+PS007,Theta Station,East,2025-07-01,0,Offline,GridCorp,0
+PS008,Iota Station,West,2025-07-01,1190,Online,,300
+PS003,Gamma Station,East,2025-07-01,1125,Online,GridCorp,310
+PS004,Delta Station,West,2025-07-01,870,,PowerGen,

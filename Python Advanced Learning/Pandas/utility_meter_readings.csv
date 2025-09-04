@@ -1,0 +1,201 @@
+CustomerID,MeterID,Region,ConnectionType,ReadingDate,Energy_kWh,BillingAmount,PaymentStatus,TariffCode,Remarks
+C0001,M6587,East,Commercial,01/02/2023,753.59,NA,Paid,T3,Check meter
+C0002,M9122,East,Residential,2023-03-13,99999,,Paid,T3,
+C0003,M1018,North,Commercial,03/03/2023,99999,,Paid,T2,Replaced
+C0004,M1615,West,Commercial,2023-01-23,,NA,,T2,Check meter
+C0005,M7523,North,Residential,09/02/2023,,,,T2,OK
+C0006,M2919,West,Residential,05-23-2023,,4251.01,,T1,Duplicate
+C0007,M6650,North,Commercial,01-27-2023,,NA,,T3,Replaced
+C0008,M8168,West,Commercial,01-02-2023,99999,,,T1,Replaced
+C0009,M4352,South,Commercial,02-26-2023,,,,T2,Duplicate
+C0010,M3965,West,Commercial,2023-03-31,99999,1478.62,Paid,T3,
+C0011,M6117,South,Residential,02-15-2023,426.57,4817.6,,T1,Duplicate
+C0012,M4035,South,Commercial,09/05/2023,,NA,Unpaid,T3,OK
+C0013,M6083,South,Residential,2023-04-12,235.56,1798.4,,T3,Check meter
+C0014,M5088,East,Commercial,2023-06-12,,NA,Paid,T1,Check meter
+C0015,M3145,West,Residential,2023-01-28,,1397.04,Unpaid,T1,Replaced
+C0016,M7787,East,Residential,2023-01-06,,,Unpaid,T3,OK
+C0017,M8123,North,Residential,05/01/2023,,,Paid,T1,Replaced
+C0018,M5705,North,Residential,2023-05-22,,NA,Paid,T3,OK
+C0019,M8192,South,Commercial,2023-02-16,518.9,,,T1,Duplicate
+C0020,M4721,West,Commercial,05-29-2023,683.0,NA,,T1,OK
+C0021,M5820,West,Residential,05/06/2023,,,Unpaid,T2,OK
+C0022,M3966,North,Residential,11/04/2023,542.73,,Unpaid,T2,Duplicate
+C0023,M4181,East,Commercial,04/02/2023,379.05,NA,Unpaid,T3,OK
+C0024,M1110,North,Residential,21/01/2023,,,,T3,Check meter
+C0025,M9321,West,Residential,2023-06-10,,NA,,T2,Replaced
+C0026,M5061,East,Residential,2023-02-17,387.63,975.1,,T1,Duplicate
+C0027,M7841,South,Residential,2023-02-06,,NA,,T3,OK
+C0028,M6915,North,Commercial,2023-06-21,681.23,NA,Paid,T3,Replaced
+C0029,M2751,South,Commercial,2023-02-07,99999,,,T3,
+C0030,M3272,East,Commercial,18/02/2023,99999,,,T3,Check meter
+C0031,M8481,East,Commercial,01-18-2023,99999,NA,,T2,Replaced
+C0032,M5356,West,Residential,05-22-2023,,1423.53,Unpaid,T3,Duplicate
+C0033,M3038,East,Commercial,2023-03-16,,,,T3,Replaced
+C0034,M6447,West,Residential,2023-04-11,99999,,Paid,T1,OK
+C0035,M2703,East,Residential,02-16-2023,,,,T3,
+C0036,M8264,North,Commercial,02-17-2023,,2734.43,,T3,Replaced
+C0037,M4014,South,Commercial,04-24-2023,1038.35,,Paid,T1,Check meter
+C0038,M4957,North,Commercial,16/05/2023,99999,,,T1,Replaced
+C0039,M8555,North,Commercial,2023-05-24,764.67,,,T1,Check meter
+C0040,M3492,South,Commercial,15/06/2023,99999,NA,,T1,Check meter
+C0041,M2757,South,Residential,17/03/2023,,,,T1,Replaced
+C0042,M8338,East,Commercial,01-07-2023,768.47,,,T2,Check meter
+C0043,M5668,North,Residential,,,NA,,T3,Replaced
+C0044,M3204,North,Commercial,2023-04-17,,4212.76,,T2,Replaced
+C0045,M9466,North,Commercial,2023-03-09,1142.5,3390.49,,T2,
+C0046,M1787,North,Residential,02-19-2023,99999,4699.79,Paid,T3,Check meter
+C0047,M1619,South,Commercial,05-02-2023,99999,721.36,Unpaid,T2,
+C0048,M8316,South,Residential,01/05/2023,620.25,NA,,T2,
+C0049,M9377,East,Commercial,04-28-2023,390.25,,Paid,T1,Check meter
+C0050,M3697,West,Residential,01-01-2023,113.83,NA,,T2,
+C0051,M2782,East,Residential,2023-02-20,479.74,NA,,T3,Replaced
+C0052,M8249,East,Residential,31/01/2023,,,Paid,T1,
+C0053,M6224,South,Commercial,13/04/2023,395.19,,Paid,T1,Replaced
+C0054,M4724,North,Commercial,08/01/2023,1075.76,,,T1,Replaced
+C0055,M4343,West,Residential,04-29-2023,,2709.93,,T3,
+C0056,M8985,East,Commercial,2023-05-26,,,,T3,Replaced
+C0057,M6383,South,Commercial,01-08-2023,,,Paid,T2,
+C0058,M3670,West,Commercial,05/05/2023,99999,NA,Unpaid,T2,
+C0059,M9384,South,Residential,13/04/2023,99999,4560.19,,T3,OK
+C0060,M9780,East,Commercial,10/03/2023,,NA,,T3,Check meter
+C0061,M2965,North,Commercial,2023-03-21,,NA,,T3,OK
+C0062,M6072,North,Commercial,2023-03-10,,NA,Unpaid,T3,Check meter
+C0063,M1974,West,Commercial,2023-04-18,,1570.33,Unpaid,T3,Check meter
+C0064,M7107,West,Residential,02-06-2023,99999,,Paid,T1,
+C0065,M6074,North,Commercial,30/06/2023,,878.06,,T3,
+C0066,M3386,South,Commercial,04-22-2023,,3960.23,,T3,
+C0067,M8110,East,Commercial,23/01/2023,99999,2568.85,,T3,Replaced
+C0068,M9812,North,Commercial,07/06/2023,,NA,Paid,T1,OK
+C0069,M8354,East,Residential,2023-03-14,,4232.83,Unpaid,T1,OK
+C0070,M2568,South,Residential,29/05/2023,99999,,,T1,OK
+C0071,M6925,West,Residential,2023-04-23,776.28,,Paid,T1,
+C0072,M3158,East,Commercial,23/02/2023,701.37,,,T3,OK
+C0073,M5046,South,Residential,2023-03-14,1128.24,,Unpaid,T1,OK
+C0074,M6214,South,Residential,2023-04-19,688.99,NA,Paid,T3,OK
+C0075,M9973,South,Commercial,2023-01-21,99999,3199.03,Unpaid,T3,Duplicate
+C0076,M4636,North,Residential,,,1748.59,Unpaid,T3,Check meter
+C0077,M4528,East,Residential,03-16-2023,,,Unpaid,T3,
+C0078,M4610,North,Commercial,2023-04-17,,,Unpaid,T2,OK
+C0079,M9724,West,Commercial,02-08-2023,,,Paid,T3,
+C0080,M7046,West,Residential,08/02/2023,,,,T1,
+C0081,M5019,North,Residential,,,NA,Paid,T2,OK
+C0082,M7924,North,Residential,04-06-2023,,NA,Unpaid,T3,
+C0083,M8534,East,Commercial,2023-01-25,926.64,2924.0,Unpaid,T2,Duplicate
+C0084,M2696,East,Residential,04/03/2023,,,,T1,OK
+C0085,M9449,West,Commercial,06-15-2023,99999,NA,Paid,T2,
+C0086,M9330,East,Residential,05-15-2023,,NA,Paid,T1,Duplicate
+C0087,M9399,East,Residential,01-12-2023,,,Unpaid,T3,
+C0088,M4236,East,Residential,08/03/2023,,NA,Paid,T1,Check meter
+C0089,M6668,East,Residential,2023-03-12,825.35,4767.2,,T1,Check meter
+C0090,M9594,South,Commercial,01-27-2023,,2142.55,Unpaid,T3,
+C0091,M4458,South,Commercial,14/01/2023,99999,NA,,T2,Replaced
+C0092,M3244,West,Residential,24/06/2023,99999,3695.87,,T2,
+C0093,M4630,East,Residential,2023-02-01,,,Unpaid,T2,OK
+C0094,M9161,East,Commercial,04-22-2023,996.97,2791.92,Unpaid,T1,Check meter
+C0095,M9645,North,Commercial,2023-01-02,974.05,,,T2,Duplicate
+C0096,M3183,West,Residential,2023-02-20,,2952.06,,T3,Check meter
+C0097,M3669,North,Residential,03-01-2023,165.31,NA,,T1,OK
+C0098,M6148,North,Residential,2023-06-28,973.46,NA,Unpaid,T1,Check meter
+C0099,M2819,North,Residential,06-23-2023,,NA,Paid,T1,Check meter
+C0100,M7124,East,Commercial,2023-06-12,99999,NA,,T3,OK
+C0101,M8059,West,Residential,07/01/2023,,,,T1,
+C0102,M2049,South,Residential,2023-02-23,515.39,,,T1,
+C0103,M9004,East,Commercial,2023-01-25,99999,4783.11,Paid,T3,
+C0104,M1086,South,Commercial,06-15-2023,99999,4808.33,Paid,T2,
+C0105,M5984,North,Residential,2023-06-27,,,,T2,Duplicate
+C0106,M2275,North,Residential,03-20-2023,822.89,,Unpaid,T2,Duplicate
+C0107,M9538,South,Residential,05-15-2023,,NA,Paid,T1,
+C0108,M8272,East,Residential,02-02-2023,,,Unpaid,T1,
+C0109,M3952,North,Commercial,02-07-2023,,NA,,T3,Replaced
+C0110,M9456,West,Commercial,13/04/2023,495.54,,Paid,T3,
+C0111,M7787,East,Commercial,10/03/2023,,3700.77,Unpaid,T2,OK
+C0112,M3054,South,Residential,04/04/2023,157.33,1121.93,,T2,Replaced
+C0113,M7657,West,Commercial,05-19-2023,99999,3155.87,,T1,
+C0114,M1730,South,Residential,04-21-2023,1182.88,4890.05,Unpaid,T2,Check meter
+C0115,M9796,North,Residential,24/04/2023,,NA,Unpaid,T3,
+C0116,M1838,West,Residential,2023-06-09,99999,NA,,T2,Replaced
+C0117,M1418,North,Residential,03-31-2023,99999,1362.27,Paid,T3,
+C0118,M2022,West,Residential,23/06/2023,,2890.79,,T2,Duplicate
+C0119,M3546,East,Residential,07/05/2023,99999,NA,,T1,
+C0120,M5405,North,Residential,,,,,T1,Replaced
+C0121,M3935,North,Commercial,2023-02-06,,NA,,T3,Duplicate
+C0122,M3948,West,Commercial,10/06/2023,99999,4795.69,,T1,
+C0123,M9175,West,Residential,2023-02-09,99999,,,T1,
+C0124,M3759,West,Commercial,2023-05-29,,NA,,T1,Duplicate
+C0125,M1032,South,Commercial,,1010.47,,Paid,T2,OK
+C0126,M5064,South,Residential,01-29-2023,,2190.87,Paid,T1,OK
+C0127,M8222,South,Commercial,06-21-2023,,NA,,T2,
+C0128,M1414,South,Commercial,2023-03-28,,,,T2,OK
+C0129,M4457,East,Residential,09/05/2023,99999,593.99,Unpaid,T3,
+C0130,M6062,West,Commercial,10/03/2023,,,Unpaid,T1,OK
+C0131,M2477,West,Residential,02-06-2023,,795.36,Unpaid,T2,
+C0132,M9703,West,Commercial,,,1412.64,Unpaid,T2,Replaced
+C0133,M2889,West,Commercial,18/03/2023,99999,3378.65,Paid,T1,Replaced
+C0134,M8867,North,Commercial,2023-06-02,121.93,NA,,T2,Check meter
+C0135,M7230,West,Residential,2023-01-21,,NA,Paid,T2,Replaced
+C0136,M9181,East,Residential,02-02-2023,,NA,Unpaid,T2,
+C0137,M5231,West,Commercial,14/02/2023,99999,NA,,T1,Replaced
+C0138,M6435,East,Residential,03-19-2023,,NA,,T2,OK
+C0139,M8113,South,Residential,2023-01-14,214.93,,Paid,T1,
+C0140,M9371,East,Residential,09/05/2023,99999,,,T1,Replaced
+C0141,M5061,South,Residential,01-09-2023,99999,,Unpaid,T3,Check meter
+C0142,M6790,North,Commercial,05-01-2023,700.82,NA,,T1,Check meter
+C0143,M5748,West,Residential,19/02/2023,742.39,1670.56,,T1,Duplicate
+C0144,M8013,North,Commercial,05-13-2023,,,Paid,T2,Check meter
+C0145,M5546,East,Residential,01/04/2023,,NA,,T2,
+C0146,M9732,East,Residential,2023-05-11,175.31,,,T2,Check meter
+C0147,M7497,West,Commercial,2023-01-15,,NA,Paid,T1,Replaced
+C0148,M9258,North,Commercial,05-09-2023,,NA,,T3,
+C0149,M4742,West,Commercial,2023-02-17,,,,T3,Duplicate
+C0150,M4979,South,Residential,19/06/2023,99999,,Paid,T2,OK
+C0151,M2028,South,Residential,2023-06-27,,,,T2,OK
+C0152,M4884,North,Commercial,2023-03-02,122.99,,Unpaid,T3,
+C0153,M2760,South,Commercial,2023-01-07,638.74,,Paid,T1,Check meter
+C0154,M1189,South,Commercial,08/05/2023,149.91,NA,Paid,T1,OK
+C0155,M3116,East,Residential,,,NA,Unpaid,T3,
+C0156,M4774,East,Residential,03-29-2023,,2742.72,,T3,
+C0157,M2830,South,Commercial,05-11-2023,,NA,,T2,
+C0158,M7549,East,Residential,05-20-2023,264.07,,Paid,T2,Replaced
+C0159,M2243,North,Residential,05/02/2023,758.93,943.7,,T1,OK
+C0160,M9527,East,Residential,2023-03-06,99999,,Paid,T1,OK
+C0161,M7550,West,Commercial,2023-01-07,99999,,Paid,T2,
+C0162,M2187,East,Residential,22/04/2023,99999,3229.64,,T3,
+C0163,M3590,North,Commercial,19/05/2023,99999,,,T3,Duplicate
+C0164,M2435,West,Commercial,09/03/2023,99999,,,T1,OK
+C0165,M3708,West,Commercial,2023-06-19,1082.93,NA,Paid,T2,Duplicate
+C0166,M2689,North,Commercial,04-30-2023,99999,NA,Paid,T3,Duplicate
+C0167,M6543,East,Commercial,2023-03-04,166.1,,,T2,
+C0168,M4272,West,Commercial,08/04/2023,,NA,Paid,T2,Check meter
+C0169,M6760,South,Commercial,2023-02-04,99999,868.85,,T2,Replaced
+C0170,M7866,West,Residential,,1111.87,,Unpaid,T1,OK
+C0171,M9336,East,Residential,09/06/2023,,,,T1,
+C0172,M1018,West,Residential,2023-02-02,298.27,NA,Paid,T1,Duplicate
+C0173,M1523,North,Residential,2023-03-09,99999,NA,,T2,
+C0174,M1877,South,Commercial,,,,Unpaid,T2,
+C0175,M6688,South,Commercial,06-16-2023,,,Unpaid,T2,Duplicate
+C0176,M7456,North,Commercial,10/05/2023,99999,,,T3,Replaced
+C0177,M4212,West,Residential,2023-05-26,639.25,,,T2,
+C0178,M9254,North,Residential,2023-04-11,99999,,Paid,T2,OK
+C0179,M9601,East,Commercial,05-28-2023,,,,T2,OK
+C0180,M1977,North,Residential,02/05/2023,,,Paid,T2,OK
+C0181,M5590,South,Commercial,03-04-2023,99999,4185.63,,T3,
+C0182,M2860,North,Residential,17/03/2023,1107.71,689.39,,T3,OK
+C0183,M6565,South,Residential,2023-02-18,,,Paid,T2,Duplicate
+C0184,M6778,West,Commercial,18/06/2023,99999,3291.81,Unpaid,T3,OK
+C0185,M3608,West,Residential,01-04-2023,854.13,NA,,T2,Duplicate
+C0186,M9811,West,Residential,04-13-2023,99999,NA,Unpaid,T3,
+C0187,M9665,East,Commercial,13/01/2023,99999,,,T2,OK
+C0188,M6786,South,Residential,2023-04-29,496.53,,Unpaid,T1,OK
+C0189,M7495,East,Residential,07/02/2023,,,,T1,
+C0190,M9811,West,Commercial,03-07-2023,745.98,,,T2,Duplicate
+C0191,M2454,North,Commercial,04-02-2023,,,,T2,Duplicate
+C0192,M2224,North,Residential,06-07-2023,,,Unpaid,T3,Replaced
+C0193,M3248,West,Residential,06-30-2023,1155.24,NA,Unpaid,T1,Replaced
+C0194,M2387,North,Commercial,05/04/2023,409.59,,,T2,OK
+C0195,M9316,West,Residential,01-14-2023,99999,NA,Paid,T1,
+C0196,M7600,North,Commercial,2023-03-25,99999,2032.17,Paid,T3,OK
+C0197,M2103,East,Residential,22/05/2023,99999,NA,Paid,T3,Check meter
+C0198,M8002,South,Commercial,06-25-2023,581.91,NA,,T2,
+C0199,M8029,West,Residential,2023-06-12,,1869.82,Unpaid,T1,Check meter
+C0200,M6029,South,Commercial,24/04/2023,,NA,,T1,Replaced

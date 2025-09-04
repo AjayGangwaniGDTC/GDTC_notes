@@ -1,0 +1,37 @@
+[
+  {
+    "substation_id": "S1",
+    "timestamp": "2025-07-01T00:00:00Z",
+    "voltage_kv": 220,
+    "load_mw": 45.2,
+    "status": "Normal"
+  },
+  {
+    "substation_id": "S1",
+    "timestamp": "2025-07-01T01:00:00Z",
+    "voltage_kv": 219,
+    "load_mw": 47.5,
+    "status": "Normal"
+  },
+  {
+    "substation_id": "S2",
+    "timestamp": "2025-07-01T00:00:00Z",
+    "voltage_kv": 230,
+    "load_mw": 51.0,
+    "status": "Overload"
+  },
+  {
+    "substation_id": "S2",
+    "timestamp": "2025-07-01T01:00:00Z",
+    "voltage_kv": 231,
+    "load_mw": 49.8,
+    "status": "Normal"
+  },
+  {
+    "substation_id": "S3",
+    "timestamp": "2025-07-01T00:00:00Z",
+    "voltage_kv": 224,
+    "load_mw": 40.6,
+    "status": "Normal"
+  }
+]
